@@ -1,0 +1,4 @@
+name: RealmsChat
+main: net.ghostrealms.RealmsChat.spigot.RealmsChatBukkit
+version: {$project.version}
+softdepend: [PlaceholderAPI, Vault]
